@@ -1,0 +1,1322 @@
+Sleep stage W	none	390
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage N1	none	30
+Sleep stage W	none	30
+Sleep stage N1	none	120
+Sleep stage N1	none	
+Sleep stage N1	none	
+Sleep stage N1	none	
+Sleep stage W	none	90
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage N1	none	60
+Sleep stage N1	none	
+Sleep stage N2	none	30
+Sleep stage N1	none	30
+Sleep stage N2	none	120
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N1	none	60
+Sleep stage N1	none	
+Sleep stage N2	none	90
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage W	none	210
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage N1	none	30
+Sleep stage N2	none	540
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N3	none	30
+Sleep stage N2	none	60
+Sleep stage N2	none	
+Sleep stage N3	none	810
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N2	none	750
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N3	none	1380
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N2	none	120
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N1	none	30
+Sleep stage R	none	30
+Sleep stage N2	none	30
+Sleep stage R	none	30
+Sleep stage W	none	30
+Sleep stage N1	none	30
+Sleep stage N2	none	30
+Sleep stage N1	none	30
+Sleep stage W	none	60
+Sleep stage W	none	
+Sleep stage N1	none	30
+Sleep stage N2	none	30
+Sleep stage R	none	120
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage N1	none	30
+Sleep stage N2	none	120
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage R	none	30
+Sleep stage N1	none	30
+Sleep stage R	none	90
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage N1	none	30
+Sleep stage R	none	90
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage N1	none	60
+Sleep stage N1	none	
+Sleep stage R	none	60
+Sleep stage R	none	
+Sleep stage W	none	510
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage N1	none	60
+Sleep stage N1	none	
+Sleep stage W	none	30
+Sleep stage N1	none	30
+Sleep stage N2	none	30
+Sleep stage W	none	90
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage N1	none	30
+Sleep stage N2	none	240
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage W	none	30
+Sleep stage N2	none	30
+Sleep stage W	none	90
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage N1	none	30
+Sleep stage N2	none	330
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage W	none	60
+Sleep stage W	none	
+Sleep stage N2	none	510
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N1	none	30
+Sleep stage N2	none	780
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage W	none	60
+Sleep stage W	none	
+Sleep stage N1	none	60
+Sleep stage N1	none	
+Sleep stage N2	none	630
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage W	none	30
+Sleep stage N2	none	1560
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage R	none	30
+Sleep stage N1	none	30
+Sleep stage R	none	30
+Sleep stage N1	none	30
+Sleep stage R	none	30
+Sleep stage N1	none	30
+Sleep stage R	none	30
+Sleep stage N1	none	30
+Sleep stage R	none	150
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage W	none	30
+Sleep stage R	none	90
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage N1	none	30
+Sleep stage R	none	30
+Sleep stage W	none	30
+Sleep stage N1	none	30
+Sleep stage R	none	60
+Sleep stage R	none	
+Sleep stage W	none	60
+Sleep stage W	none	
+Sleep stage N1	none	30
+Sleep stage R	none	1050
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage W	none	60
+Sleep stage W	none	
+Sleep stage N1	none	90
+Sleep stage N1	none	
+Sleep stage N1	none	
+Sleep stage W	none	930
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage N1	none	210
+Sleep stage N1	none	
+Sleep stage N1	none	
+Sleep stage N1	none	
+Sleep stage N1	none	
+Sleep stage N1	none	
+Sleep stage N1	none	
+Sleep stage N2	none	1470
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N1	none	30
+Sleep stage N2	none	60
+Sleep stage N2	none	
+Sleep stage W	none	30
+Sleep stage N2	none	3900
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N1	none	30
+Sleep stage N2	none	60
+Sleep stage N2	none	
+Sleep stage N1	none	60
+Sleep stage N1	none	
+Sleep stage R	none	30
+Sleep stage N1	none	30
+Sleep stage R	none	180
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage N1	none	30
+Sleep stage R	none	90
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage W	none	60
+Sleep stage W	none	
+Sleep stage N1	none	30
+Sleep stage N2	none	60
+Sleep stage N2	none	
+Sleep stage R	none	510
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage N1	none	30
+Sleep stage R	none	120
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage N2	none	60
+Sleep stage N2	none	
+Sleep stage R	none	90
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage W	none	90
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage N1	none	30
+Sleep stage N2	none	600
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N1	none	60
+Sleep stage N1	none	
+Sleep stage N2	none	1620
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage W	none	780
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage N1	none	120
+Sleep stage N1	none	
+Sleep stage N1	none	
+Sleep stage N1	none	
+Sleep stage N2	none	780
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage R	none	780
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage N1	none	60
+Sleep stage N1	none	
+Sleep stage N2	none	960
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N1	none	30
+Sleep stage N2	none	180
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage W	none	60
+Sleep stage W	none	
+Sleep stage N2	none	420
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N3	none	270
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N1	none	30
+Sleep stage N2	none	240
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N3	none	150
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N2	none	60
+Sleep stage N2	none	
+Sleep stage N3	none	1410
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N3	none	
+Sleep stage N1	none	30
+Sleep stage N2	none	210
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage R	none	30
+Sleep stage N1	none	30
+Sleep stage R	none	390
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage W	none	30
+Sleep stage N1	none	30
+Sleep stage R	none	60
+Sleep stage R	none	
+Sleep stage N1	none	90
+Sleep stage N1	none	
+Sleep stage N1	none	
+Sleep stage N2	none	30
+Sleep stage R	none	270
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage W	none	30
+Sleep stage N1	none	90
+Sleep stage N1	none	
+Sleep stage N1	none	
+Sleep stage R	none	150
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage N1	none	180
+Sleep stage N1	none	
+Sleep stage N1	none	
+Sleep stage N1	none	
+Sleep stage N1	none	
+Sleep stage N1	none	
+Sleep stage N2	none	90
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage W	none	90
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage N1	none	60
+Sleep stage N1	none	
+Sleep stage N2	none	150
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N1	none	30
+Sleep stage N2	none	30
+Sleep stage N1	none	30
+Sleep stage W	none	60
+Sleep stage W	none	
+Sleep stage N1	none	30
+Sleep stage N2	none	30
+Sleep stage W	none	30
+Sleep stage N2	none	270
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage W	none	1200
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage N1	none	90
+Sleep stage N1	none	
+Sleep stage N1	none	
+Sleep stage W	none	150
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage N2	none	120
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage W	none	300
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage N1	none	180
+Sleep stage N1	none	
+Sleep stage N1	none	
+Sleep stage N1	none	
+Sleep stage N1	none	
+Sleep stage N1	none	
+Sleep stage N2	none	90
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage W	none	30
+Sleep stage N1	none	30
+Sleep stage N2	none	90
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N1	none	30
+Sleep stage N2	none	60
+Sleep stage N2	none	
+Sleep stage W	none	240
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage N2	none	120
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage W	none	90
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage N1	none	30
+Sleep stage N2	none	420
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N1	none	30
+Sleep stage N2	none	60
+Sleep stage N2	none	
+Sleep stage R	none	60
+Sleep stage R	none	
+Sleep stage N1	none	30
+Sleep stage N2	none	60
+Sleep stage N2	none	
+Sleep stage N1	none	60
+Sleep stage N1	none	
+Sleep stage N2	none	30
+Sleep stage N1	none	30
+Sleep stage N2	none	90
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N1	none	30
+Sleep stage W	none	30
+Sleep stage N2	none	150
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage W	none	150
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage N1	none	30
+Sleep stage W	none	30
+Sleep stage N1	none	30
+Sleep stage N2	none	150
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage W	none	30
+Sleep stage N1	none	30
+Sleep stage N2	none	510
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage W	none	30
+Sleep stage N1	none	30
+Sleep stage N2	none	210
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage W	none	30
+Sleep stage N2	none	540
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage R	none	240
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage W	none	30
+Sleep stage N1	none	30
+Sleep stage R	none	240
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage R	none	
+Sleep stage N1	none	30
+Sleep stage N2	none	180
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage W	none	30
+Sleep stage N1	none	30
+Sleep stage N2	none	180
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage N2	none	
+Sleep stage W	none	60
+Sleep stage W	none	
+Sleep stage N1	none	30
+Sleep stage N2	none	30
+Sleep stage W	none	210
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
+Sleep stage W	none	
